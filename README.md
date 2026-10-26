@@ -57,7 +57,7 @@ Application web permettant d’analyser un ticket de caisse et de comparer autom
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/flavi1lv/ticketIA.git
+git clone https://github.com/flavien-prm/ticketIA.git
 cd ticketIA
 ```
 
